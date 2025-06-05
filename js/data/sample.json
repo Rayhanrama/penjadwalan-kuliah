@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Algoritma",
+    "instructor": "Pak Budi",
+    "classroom": "R101",
+    "capacity": 30
+  },
+  {
+    "name": "Basis Data",
+    "instructor": "Bu Sari",
+    "classroom": "R102",
+    "capacity": 25
+  }
+]
